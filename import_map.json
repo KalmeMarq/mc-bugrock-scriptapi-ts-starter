@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@minecraft/server": "https://esm.sh/@minecraft/server@1.1.0-beta.preview.1.19.50.22/index.d.ts",
+    "@minecraft/server-ui": "https://esm.sh/@minecraft/server-ui@1.0.0-beta.11940b24/index.d.ts",
+    "typescript": "https://esm.sh/typescript@4.8.4",
+    "fs": "https://deno.land/std@0.161.0/fs/mod.ts"
+  }
+}
